@@ -40,3 +40,11 @@ cd ../
 ## Support my work by Donating 
 
 https://www.paypal.me/a13tech
+
+
+## more info
+Chip data on archive 
+https://archive.org/details/C.h.i.p.FlashCollection
+backup website for documentation as main website is not working
+http://chip.jfpossibilities.com/
+https://medium.com/@0x1231/nextthingco-pocket-c-h-i-p-flashing-guide-3445492639e
